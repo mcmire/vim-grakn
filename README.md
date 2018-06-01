@@ -12,4 +12,4 @@ support (see `:help packages`).
 
 ## Colophon
 
-Copyright © 2018 Elliot Winkler. Distributed under the [MIT license][LICENSE].
+Copyright © 2018 Elliot Winkler. Distributed under the [MIT license](LICENSE).
